@@ -19,13 +19,13 @@
 define('DB_NAME', 'saaz');
 
 /** MySQL database username */
-define('DB_USER', 'saaz');
+define('DB_USER', 'forge');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Maya@1234');
+define('DB_PASSWORD', 'vNgnyVEKVFShH0hzz6uT');
 
 /** MySQL hostname */
-define('DB_HOST', 'saaz.db.10637351.hostedresource.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
