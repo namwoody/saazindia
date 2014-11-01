@@ -125,7 +125,7 @@ Sun -  12:00pm - 10:00pm<br />
 </span>
 		</div>
 		<div class="col-lg-6 text-right" id="copyright">
-		<span>D Developer 
+		<span>
 </span>
 		</div>
 	</div>
